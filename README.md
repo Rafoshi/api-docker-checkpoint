@@ -1,0 +1,5 @@
+![erro](https://github.com/user-attachments/assets/431ff525-60fe-4fed-a330-fcdb8f102966)
+![banco](https://github.com/user-attachments/assets/958210e4-8f1c-47ad-86af-1ec579668ab5)
+![update](https://github.com/user-attachments/assets/1fa87df4-619f-44fb-a524-446ec652ff77)
+![post](https://github.com/user-attachments/assets/0d6d89d3-437c-4b30-ab90-1ba3f1270427)
+![get](https://github.com/user-attachments/assets/644df782-b249-44e3-9957-c46154ccdd56)
